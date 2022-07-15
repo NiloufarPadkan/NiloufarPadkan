@@ -3,6 +3,9 @@
 </div>
 <div align="center">
   
+![](https://raw.githubusercontent.com/NiloufarPadkan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/NiloufarPadkan/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  
    <a href="niloufar.pa@gmail.com">
     <img align="left" alt="Niloufar Padkan" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/email-12-xl.png" />
   </a>
