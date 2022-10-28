@@ -5,8 +5,13 @@
   
   
    <a href="niloufar.pa@gmail.com">
-    <img align="left" alt="Niloufar Padkan" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/email-12-xl.png" />
+    <img align="left" alt="Niloufar Padkan" width="22px" src="https://www.iconsdb.com/icons/preview/tropical-blue/mail-xl.png" />
   </a>
+   
+   <a href="https://www.linkedin.com/in/niloufar-padkan-23a7aba6">
+    <img align="left" alt="Niloufar Padkan" width="22px" src="https://www.iconsdb.com/icons/preview/tropical-blue/linkedin-3-xl.png" />
+  </a>
+
 </div>
 <br>
 <br>
